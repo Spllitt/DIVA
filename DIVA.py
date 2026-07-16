@@ -19,7 +19,7 @@ def runBot():
 
     #area pra musica
     voice_clients = {}
-    yt_dl_options = yt_dlp.YoutubeDL({'format': 'bestaudio/best'})
+    yt_dl_options = ({'format': 'bestaudio/best'})
     ytdl = yt_dlp.YoutubeDL(yt_dl_options)
 
     ffmpeg_options = {"options" : "-vn"}
@@ -50,7 +50,7 @@ def runBot():
                 return
         await bot.process_commands(message)
 
-        if message.content.startswith('?play'):
+        if message.content.startswith('d!p'):
             try:
                 voice_client = await message.author.voice.channel.connect()
                 voice_clients[message.guild.id] = voice_client
