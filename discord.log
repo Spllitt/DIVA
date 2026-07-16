@@ -1561,3 +1561,127 @@ discord.ext.commands.errors.CommandNotFound: Command "p" is not found
 [2026-07-16 19:23:16] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244196194, 'seq_ack': 21}.
 [2026-07-16 19:23:16] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244196194, 'seq_ack': 21}}.
 [2026-07-16 19:23:16] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244196194}}
+[2026-07-16 19:23:21] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244201577, 'seq_ack': 21}.
+[2026-07-16 19:23:21] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244201577, 'seq_ack': 21}}.
+[2026-07-16 19:23:21] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244201577}}
+[2026-07-16 19:23:26] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 108.
+[2026-07-16 19:23:26] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244206801, 'seq_ack': 21}.
+[2026-07-16 19:23:26] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244206801, 'seq_ack': 21}}.
+[2026-07-16 19:23:26] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+[2026-07-16 19:23:26] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244206801}}
+[2026-07-16 19:23:31] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244211850, 'seq_ack': 21}.
+[2026-07-16 19:23:31] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244211850, 'seq_ack': 21}}.
+[2026-07-16 19:23:31] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244211850}}
+[2026-07-16 19:23:32] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': 'VOICE_STATE_UPDATE', 's': 109, 'op': 0, 'd': {'member': {'user': {'username': 'omelete44', 'public_flags': 0, 'primary_guild': {'tag': 'D&D', 'identity_guild_id': '516367331358801950', 'identity_enabled': True, 'badge': '4ef966b9bdd3ca7155e184e893314cd6'}, 'id': '807020941015908422', 'global_name': 'omelete44', 'display_name_styles': None, 'display_name': 'omelete44', 'discriminator': '0', 'collectibles': None, 'bot': False, 'avatar_decoration_data': None, 'avatar': 'd0b542dacf1c57a860c96ff584849be0'}, 'roles': ['1424320540650373152', '1423010114117308417', '1449888404018958336', '1444864406738702497', '1429293820134031370', '1429292958594633739', '1449888931452817520', '1424320040127168563'], 'premium_since': None, 'pending': False, 'nick': 'Dafne', 'mute': False, 'joined_at': '2025-10-02T16:28:52.013000+00:00', 'flags': 0, 'deaf': False, 'communication_disabled_until': None, 'banner': None, 'avatar': None}, 'user_id': '807020941015908422', 'suppress': False, 'session_id': 'fdd8e82f94bc9d66e356af6f29f3bd93', 'self_video': False, 'self_mute': False, 'self_deaf': False, 'request_to_speak_timestamp': None, 'mute': False, 'guild_id': '1297670153969860680', 'discoverable': True, 'deaf': False, 'connected_at': 1784244118, 'channel_id': '1297670154687352946'}}
+[2026-07-16 19:23:32] [DEBUG   ] discord.client: Dispatching event socket_event_type
+[2026-07-16 19:23:32] [DEBUG   ] discord.client: Dispatching event voice_state_update
+[2026-07-16 19:23:36] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244216866, 'seq_ack': 21}.
+[2026-07-16 19:23:36] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244216866, 'seq_ack': 21}}.
+[2026-07-16 19:23:36] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244216866}}
+[2026-07-16 19:23:42] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244222036, 'seq_ack': 21}.
+[2026-07-16 19:23:42] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244222036, 'seq_ack': 21}}.
+[2026-07-16 19:23:42] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244222036}}
+[2026-07-16 19:23:47] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244227389, 'seq_ack': 21}.
+[2026-07-16 19:23:47] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244227389, 'seq_ack': 21}}.
+[2026-07-16 19:23:47] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244227389}}
+[2026-07-16 19:23:53] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244233665, 'seq_ack': 21}.
+[2026-07-16 19:23:53] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244233665, 'seq_ack': 21}}.
+[2026-07-16 19:23:54] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244233665}}
+[2026-07-16 19:23:57] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': 'VOICE_STATE_UPDATE', 's': 110, 'op': 0, 'd': {'member': {'user': {'username': 'catzim', 'public_flags': 128, 'primary_guild': None, 'id': '521756702907957268', 'global_name': 'Loki', 'display_name_styles': None, 'display_name': 'Loki', 'discriminator': '0', 'collectibles': {'nameplate': {'sku_id': '1377377712028516443', 'palette': 'violet', 'label': 'COLLECTIBLES_NAMEPLATES_V2_SPIRIT_MOON_A11Y', 'expires_at': None, 'asset': 'nameplates/nameplates_v2/spirit_moon/'}}, 'bot': False, 'avatar_decoration_data': None, 'avatar': '075ef53ffdb194e8f4153f0ae40bc39b'}, 'roles': ['1423010114117308417', '1520530725441503395', '1297670901608874024', '1475616459920118033', '1297672348237037598'], 'premium_since': None, 'pending': False, 'nick': 'Loki', 'mute': False, 'joined_at': '2026-03-09T19:56:31.165000+00:00', 'flags': 0, 'deaf': False, 'communication_disabled_until': None, 'banner': None, 'avatar': None}, 'user_id': '521756702907957268', 'suppress': False, 'session_id': '877f4516d2b816b88b3558789610ddeb', 'self_video': False, 'self_stream': True, 'self_mute': True, 'self_deaf': False, 'request_to_speak_timestamp': None, 'mute': False, 'guild_id': '1297670153969860680', 'discoverable': True, 'deaf': False, 'connected_at': 1784241516, 'channel_id': '1297670154687352946'}}
+[2026-07-16 19:23:57] [DEBUG   ] discord.client: Dispatching event socket_event_type
+[2026-07-16 19:23:57] [DEBUG   ] discord.client: Dispatching event voice_state_update
+[2026-07-16 19:23:58] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244238874, 'seq_ack': 21}.
+[2026-07-16 19:23:58] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244238874, 'seq_ack': 21}}.
+[2026-07-16 19:23:59] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244238874}}
+[2026-07-16 19:24:03] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244243901, 'seq_ack': 21}.
+[2026-07-16 19:24:03] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244243901, 'seq_ack': 21}}.
+[2026-07-16 19:24:04] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244243901}}
+[2026-07-16 19:24:07] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 110.
+[2026-07-16 19:24:08] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+[2026-07-16 19:24:09] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244249199, 'seq_ack': 21}.
+[2026-07-16 19:24:09] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244249199, 'seq_ack': 21}}.
+[2026-07-16 19:24:09] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244249199}}
+[2026-07-16 19:24:14] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244254412, 'seq_ack': 21}.
+[2026-07-16 19:24:14] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244254412, 'seq_ack': 21}}.
+[2026-07-16 19:24:14] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244254412}}
+[2026-07-16 19:24:19] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244259563, 'seq_ack': 21}.
+[2026-07-16 19:24:20] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244259563, 'seq_ack': 21}}.
+[2026-07-16 19:24:20] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244259563}}
+[2026-07-16 19:24:25] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244265264, 'seq_ack': 21}.
+[2026-07-16 19:24:25] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244265264, 'seq_ack': 21}}.
+[2026-07-16 19:24:25] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244265264}}
+[2026-07-16 19:24:30] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244270275, 'seq_ack': 21}.
+[2026-07-16 19:24:30] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244270275, 'seq_ack': 21}}.
+[2026-07-16 19:24:30] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244270275}}
+[2026-07-16 19:24:35] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244275341, 'seq_ack': 21}.
+[2026-07-16 19:24:35] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244275341, 'seq_ack': 21}}.
+[2026-07-16 19:24:36] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244275341}}
+[2026-07-16 19:24:40] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244280474, 'seq_ack': 21}.
+[2026-07-16 19:24:40] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244280474, 'seq_ack': 21}}.
+[2026-07-16 19:24:40] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244280474}}
+[2026-07-16 19:24:45] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244285511, 'seq_ack': 21}.
+[2026-07-16 19:24:45] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244285511, 'seq_ack': 21}}.
+[2026-07-16 19:24:45] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244285511}}
+[2026-07-16 19:24:48] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': 'VOICE_STATE_UPDATE', 's': 111, 'op': 0, 'd': {'member': {'user': {'username': 'hametsu0000', 'public_flags': 256, 'primary_guild': {'tag': 'FATE', 'identity_guild_id': '982182985862377522', 'identity_enabled': True, 'badge': '80e2134dfe37e38f2074a1438b30dab2'}, 'id': '318493983879987200', 'global_name': 'Sunless', 'display_name_styles': None, 'display_name': 'Sunless', 'discriminator': '0', 'collectibles': {'nameplate': {'sku_id': '1409983105577783410', 'palette': 'violet', 'label': 'COLLECTIBLES_SEPTEMBER_2025_MARKETING_NAMEPLATE_A11Y', 'expires_at': None, 'asset': 'nameplates/special_events_2/nitro_rocketfuel_nameplate/'}}, 'bot': False, 'avatar_decoration_data': None, 'avatar': 'eb08112ea876ec5a9f38b9de37007d86'}, 'roles': ['1423010114117308417', '1424319601524604971', '1507871725252247633', '1449888557022974195', '1457892003466707007'], 'premium_since': '2026-05-22T09:30:25.929000+00:00', 'pending': False, 'nick': 'Sunny!', 'mute': False, 'joined_at': '2026-05-18T22:28:01.224000+00:00', 'flags': 0, 'deaf': False, 'communication_disabled_until': None, 'banner': None, 'avatar': 'a_e662eddfa5097f38810fe8bdac2c2aca'}, 'user_id': '318493983879987200', 'suppress': False, 'session_id': '331cd557051f51ba82006c7c0778e41f', 'self_video': False, 'self_mute': False, 'self_deaf': False, 'request_to_speak_timestamp': None, 'mute': False, 'guild_id': '1297670153969860680', 'discoverable': True, 'deaf': False, 'connected_at': 1784240499, 'channel_id': '1297670154687352946'}}
+[2026-07-16 19:24:48] [DEBUG   ] discord.client: Dispatching event socket_event_type
+[2026-07-16 19:24:48] [DEBUG   ] discord.client: Dispatching event voice_state_update
+[2026-07-16 19:24:49] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 111.
+[2026-07-16 19:24:49] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+[2026-07-16 19:24:50] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244290536, 'seq_ack': 21}.
+[2026-07-16 19:24:50] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244290536, 'seq_ack': 21}}.
+[2026-07-16 19:24:50] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244290536}}
+[2026-07-16 19:24:55] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244295561, 'seq_ack': 21}.
+[2026-07-16 19:24:55] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244295561, 'seq_ack': 21}}.
+[2026-07-16 19:24:55] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244295561}}
+[2026-07-16 19:25:00] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244300613, 'seq_ack': 21}.
+[2026-07-16 19:25:00] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244300613, 'seq_ack': 21}}.
+[2026-07-16 19:25:00] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244300613}}
+[2026-07-16 19:25:05] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244305990, 'seq_ack': 21}.
+[2026-07-16 19:25:06] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244305990, 'seq_ack': 21}}.
+[2026-07-16 19:25:06] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244305990}}
+[2026-07-16 19:25:11] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244311536, 'seq_ack': 21}.
+[2026-07-16 19:25:11] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244311536, 'seq_ack': 21}}.
+[2026-07-16 19:25:11] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244311536}}
+[2026-07-16 19:25:16] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244316640, 'seq_ack': 21}.
+[2026-07-16 19:25:16] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244316640, 'seq_ack': 21}}.
+[2026-07-16 19:25:17] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244316640}}
+[2026-07-16 19:25:21] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244321808, 'seq_ack': 21}.
+[2026-07-16 19:25:21] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244321808, 'seq_ack': 21}}.
+[2026-07-16 19:25:22] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244321808}}
+[2026-07-16 19:25:26] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244326876, 'seq_ack': 21}.
+[2026-07-16 19:25:26] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244326876, 'seq_ack': 21}}.
+[2026-07-16 19:25:26] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244326876}}
+[2026-07-16 19:25:30] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 111.
+[2026-07-16 19:25:30] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+[2026-07-16 19:25:31] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244331892, 'seq_ack': 21}.
+[2026-07-16 19:25:31] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244331892, 'seq_ack': 21}}.
+[2026-07-16 19:25:31] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244331892}}
+[2026-07-16 19:25:37] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244337207, 'seq_ack': 21}.
+[2026-07-16 19:25:37] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244337207, 'seq_ack': 21}}.
+[2026-07-16 19:25:37] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244337207}}
+[2026-07-16 19:25:42] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244342539, 'seq_ack': 21}.
+[2026-07-16 19:25:42] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244342539, 'seq_ack': 21}}.
+[2026-07-16 19:25:42] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244342539}}
+[2026-07-16 19:25:47] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244347598, 'seq_ack': 21}.
+[2026-07-16 19:25:47] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244347598, 'seq_ack': 21}}.
+[2026-07-16 19:25:47] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244347598}}
+[2026-07-16 19:25:51] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': 'VOICE_STATE_UPDATE', 's': 112, 'op': 0, 'd': {'member': {'user': {'username': 'omelete44', 'public_flags': 0, 'primary_guild': {'tag': 'D&D', 'identity_guild_id': '516367331358801950', 'identity_enabled': True, 'badge': '4ef966b9bdd3ca7155e184e893314cd6'}, 'id': '807020941015908422', 'global_name': 'omelete44', 'display_name_styles': None, 'display_name': 'omelete44', 'discriminator': '0', 'collectibles': None, 'bot': False, 'avatar_decoration_data': None, 'avatar': 'd0b542dacf1c57a860c96ff584849be0'}, 'roles': ['1424320540650373152', '1423010114117308417', '1449888404018958336', '1444864406738702497', '1429293820134031370', '1429292958594633739', '1449888931452817520', '1424320040127168563'], 'premium_since': None, 'pending': False, 'nick': 'Dafne', 'mute': False, 'joined_at': '2025-10-02T16:28:52.013000+00:00', 'flags': 0, 'deaf': False, 'communication_disabled_until': None, 'banner': None, 'avatar': None}, 'user_id': '807020941015908422', 'suppress': False, 'session_id': 'fdd8e82f94bc9d66e356af6f29f3bd93', 'self_video': False, 'self_mute': False, 'self_deaf': False, 'request_to_speak_timestamp': None, 'mute': False, 'guild_id': '1297670153969860680', 'discoverable': True, 'deaf': False, 'connected_at': 1784244118, 'channel_id': None}}
+[2026-07-16 19:25:51] [DEBUG   ] discord.client: Dispatching event socket_event_type
+[2026-07-16 19:25:51] [DEBUG   ] discord.client: Dispatching event voice_state_update
+[2026-07-16 19:25:52] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244352642, 'seq_ack': 21}.
+[2026-07-16 19:25:52] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244352642, 'seq_ack': 21}}.
+[2026-07-16 19:25:52] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244352642}}
+[2026-07-16 19:25:59] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244359238, 'seq_ack': 21}.
+[2026-07-16 19:25:59] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244359238, 'seq_ack': 21}}.
+[2026-07-16 19:25:59] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244359238}}
+[2026-07-16 19:26:04] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244364534, 'seq_ack': 21}.
+[2026-07-16 19:26:04] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244364534, 'seq_ack': 21}}.
+[2026-07-16 19:26:04] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244364534}}
+[2026-07-16 19:26:09] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244369607, 'seq_ack': 21}.
+[2026-07-16 19:26:09] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244369607, 'seq_ack': 21}}.
+[2026-07-16 19:26:09] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244369607}}
+[2026-07-16 19:26:11] [DEBUG   ] discord.gateway: Keeping shard ID None websocket alive with sequence 112.
+[2026-07-16 19:26:12] [DEBUG   ] discord.gateway: For Shard ID None: WebSocket Event: {'t': None, 's': None, 'op': 11, 'd': None}
+[2026-07-16 19:26:14] [DEBUG   ] discord.gateway: Keeping shard ID None voice websocket alive with timestamp {'t': 1784244374625, 'seq_ack': 21}.
+[2026-07-16 19:26:14] [DEBUG   ] discord.gateway: Sending voice websocket frame: {'op': 3, 'd': {'t': 1784244374625, 'seq_ack': 21}}.
+[2026-07-16 19:26:14] [DEBUG   ] discord.gateway: Voice websocket frame received: {'op': 6, 'd': {'t': 1784244374625}}
